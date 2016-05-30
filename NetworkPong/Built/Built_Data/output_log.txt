@@ -1,0 +1,27 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 570 (ID=0x1081)
+    Vendor:   NVIDIA
+    VRAM:     1228 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Studium\SG Vorlesung\Übungen\Uebung06\New Unity Project\Built\Built_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Studium\SG Vorlesung\Übungen\Uebung06\New Unity Project\Built\Built_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Studium\SG Vorlesung\Übungen\Uebung06\New Unity Project\Built\Built_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Studium\SG Vorlesung\Übungen\Uebung06\New Unity Project\Built\Built_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Studium\SG Vorlesung\Übungen\Uebung06\New Unity Project\Built\Built_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Studium\SG Vorlesung\Übungen\Uebung06\New Unity Project\Built\Built_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Studium\SG Vorlesung\Übungen\Uebung06\New Unity Project\Built\Built_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Studium\SG Vorlesung\Übungen\Uebung06\New Unity Project\Built\Built_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.060 seconds
+Platform assembly: D:\Studium\SG Vorlesung\Übungen\Uebung06\New Unity Project\Built\Built_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Studium\SG Vorlesung\Übungen\Uebung06\New Unity Project\Built\Built_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 3200x1080 at -1280,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.682562 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1680 -> priority: 1 
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777}
