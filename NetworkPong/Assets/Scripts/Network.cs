@@ -5,7 +5,6 @@ using UnityEngine.Networking;
 public class Network : NetworkManager {
 
 	private int players = 0;
-	public GameObject ballPrefab;
 
 	private GameObject ball;
 
@@ -30,6 +29,8 @@ public class Network : NetworkManager {
 		
 		Debug.Log ("CLIENT ADDED");
 	}
+
+
 
 	public override void OnServerDisconnect (NetworkConnection conn)
 	{
